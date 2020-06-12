@@ -12,3 +12,4 @@ Favor focus over features
 Avoid administrative distraction
 Design for failure
 Keep it logically awesome
+Ain't no mountain high enough
