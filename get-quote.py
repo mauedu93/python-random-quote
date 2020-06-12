@@ -5,11 +5,12 @@ def primary():
   #    f.write("Ain't no mountain high enough\n")
 
   f = open("quotes.txt")
-  quotes = f.read(100)
+  quotes = f.readlines()
   f.close()
 #
 #
-  print(quotes)
+  for n in range(10):
+      print(quotes[n])
 #
 if __name__== "__main__":
   primary()
