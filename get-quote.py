@@ -11,5 +11,5 @@ def primary():
 #
 #   print(quotes[0])
 #
-# if __name__== "__main__":
-#   primary()
+if __name__== "__main__":
+  primary()
